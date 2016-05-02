@@ -1,7 +1,7 @@
 name: Finnian Sturdy
 favicon: null
-layout_spectrum: 0.9706730784382671
-typography_spectrum: 0.2579679596237838
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3775887086521834
-  lightness: 0.8155734669417143
-  saturation: 0.7771797988098115
-  rhythmicContrast: 0.7059056384023279
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
